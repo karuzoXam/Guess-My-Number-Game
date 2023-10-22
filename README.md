@@ -8,18 +8,10 @@ Dieses Projekt wurde im Rahmen eines JavaScript-Kurses erstellt. Es handelt sich
 
 ## Vorschau
 
-[Füge hier einen Screenshot oder einen Link zu deiner live gehosteten Website ein, wenn verfügbar]
+!(Guess_My_Number.png)
 
 ## Verwendete Technologien
 
 - HTML
 - CSS
-
-## Installation
-
-Hier sind die Schritte, um das Projekt lokal auszuführen:
-
-1. Klone das Repository:
-
-   ```bash
-   git clone https://github.com/dein-benutzername/dein-projekt.git
+- JavaScript
