@@ -8,7 +8,7 @@ Dieses Projekt wurde im Rahmen eines JavaScript-Kurses erstellt. Es handelt sich
 
 ## Vorschau
 
-!(Guess_My_Number.png)
+ ![Guess_My_Number Screenshot](Guess_My_Number.png)
 
 ## Verwendete Technologien
 
