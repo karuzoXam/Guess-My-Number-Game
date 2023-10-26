@@ -1,6 +1,4 @@
-# Projektname
-
-Guess-My-Number-Game
+# Guess My Number
 
 ## Beschreibung
 
